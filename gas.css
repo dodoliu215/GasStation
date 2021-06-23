@@ -1,0 +1,20 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+.next {
+  width: 100px;
+  height: 50px;
+  font-size: 28px;
+  letter-spacing: 0.07em;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  outline: none;
+}
