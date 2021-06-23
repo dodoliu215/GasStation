@@ -343,6 +343,6 @@ function windowResized() {
 function goSave(){
   // saveMode = true;
   saveCanvas(canvas, 'bear.png');
-  window.open('http://127.0.0.1:5500/bodyClap.html');
+  window.open('https://dodoliu215.github.io/Gas-clap/');
   // window.open('bodyClap.html','_self'); // 連結至子頁
 }
