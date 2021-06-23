@@ -1,0 +1,36 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(img/p.2.png);
+  background-repeat: no-repeat;
+  /* background-attachment: fixed;
+  background-position: center; */
+  background-size: contain;
+}
+
+canvas {
+  display: block;
+}
+
+.check {
+  width: 70px;
+  height: 40px;
+  font-size: 20px;
+  letter-spacing: 0.2em;
+  background-color: white;
+  color: black;
+  font-weight: normal;
+  outline: none;
+}
+
+.re {
+  width: 110px;
+  height: 40px;
+  font-size: 20px;
+  letter-spacing: 0.1em;
+  background-color: white;
+  color: black;
+  font-weight: normal;
+  outline: none;
+}
